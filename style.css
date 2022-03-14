@@ -219,7 +219,7 @@ nav h1 {
     display: block;
   }
   #home, #about, #portfolio, #contact {
-    padding-top: 8rem;
+    padding-top: 4rem;
   }
   .sidebar {
     position: fixed;
