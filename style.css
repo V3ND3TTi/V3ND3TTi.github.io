@@ -218,8 +218,11 @@ nav h1 {
   .menu-toggle {
     display: block;
   }
-  #home, #about, #portfolio, #contact {
-    padding-top: 4rem;
+  #home, #about, #portfolio {
+    padding-top: 2rem;
+  }
+  #contact {
+    padding-top: 6rem;
   }
   .map {
     padding-top: 2rem;
