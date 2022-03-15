@@ -221,6 +221,9 @@ nav h1 {
   #home, #about, #portfolio, #contact {
     padding-top: 4rem;
   }
+  .map {
+    padding-top: 2rem;
+  }
   .sidebar {
     position: fixed;
     top: 0;
